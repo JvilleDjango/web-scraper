@@ -1,0 +1,12 @@
+{
+    "name": "scraper",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node scraper.js"
+    },
+    "dependencies": {
+        "chalk": "^3.0.0",
+        "puppeteer": "^2.0.0"
+    }
+}
